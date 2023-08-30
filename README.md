@@ -1,2 +1,2 @@
-# l-bg.github.io/dlcm
-### Webpage of the *Introduction to the interplay between deep learning and cognitive modeling* course
+# l-bg.github.io/cogsci317
+### Webpage of the *Interplay between deep learning and cognitive science* course
